@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/string"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200129}, "model": "slimefun:item/miscellaneous/chain"},
+		{"predicate": {"custom_model_data": 2200308}, "model": "slimefun:item/technical_components/copper_wire"}
+	]
+}

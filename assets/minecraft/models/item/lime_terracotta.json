@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/lime_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200373}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200499}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200500}, "model": "slimefun:item/none"}
+	]
+}

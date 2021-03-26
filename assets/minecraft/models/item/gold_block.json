@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/gold_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/bigger"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/charging_station"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/blocks/lander"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/blocks/quantum_workbench"},
+		{"predicate": {"custom_model_data": 2200238}, "model": "slimefun:item/miscellaneous/gold_block_carat_24"}
+	]
+}

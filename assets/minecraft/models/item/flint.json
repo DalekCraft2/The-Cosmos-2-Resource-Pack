@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/flint"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200130}, "model": "slimefun:item/miscellaneous/hook"},
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/stattenheim_remote"}
+	]
+}

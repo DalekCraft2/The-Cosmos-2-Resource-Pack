@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/stonecutter",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200232}, "model": "slimefun:item/none"}
+	]
+}

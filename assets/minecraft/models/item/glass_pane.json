@@ -1,0 +1,10 @@
+{
+	"parent": "cosmos:item/full_pane",
+	"textures": {
+		"layer0": "minecraft:block/glass"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/pipe"},
+		{"predicate": {"custom_model_data": 2200050}, "model": "slimefun:item/magical_items/magical_glass"}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/bone"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, -45],
+			"translation": [0, -4.5, -6.5],
+			"scale":[1, 1, 1]
+		}
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/k9/k9"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/k9/k9_ears_1"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/k9/k9_ears_2"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/k9/k9_ears_3"},
+		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/k9/k9_ears_4"},
+		{"predicate": {"custom_model_data": 6}, "model": "tardis:item/genetic/k9"},
+		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/weeping_angel"},
+		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/weeping_angel_sad"},
+		{"predicate": {"custom_model_data": 3}, "model": "cosmos:item/weeping_angel_close"},
+		{"predicate": {"custom_model_data": 4}, "model": "cosmos:item/xenomorph"},
+		{"predicate": {"custom_model_data": 5}, "model": "cosmos:item/cyberman"},
+		{"predicate": {"custom_model_data": 6}, "model": "cosmos:item/cyberman_arm"},
+		{"predicate": {"custom_model_data": 7}, "model": "cosmos:item/goblin"},
+		{"predicate": {"custom_model_data": 8}, "model": "cosmos:item/wisp"},
+		{"predicate": {"custom_model_data": 9}, "model": "cosmos:item/cybus"},
+		{"predicate": {"custom_model_data": 10}, "model": "cosmos:item/godzilla_head"},
+		{"predicate": {"custom_model_data": 11}, "model": "cosmos:item/godzilla_tail"},
+		{"predicate": {"custom_model_data": 13}, "model": "cosmos:item/godzilla_skull"},
+		{"predicate": {"custom_model_data": 14}, "model": "cosmos:item/titave_head_on"},
+		{"predicate": {"custom_model_data": 15}, "model": "cosmos:item/titave_arm_on"},
+		{"predicate": {"custom_model_data": 16}, "model": "cosmos:item/titave_head_off"},
+		{"predicate": {"custom_model_data": 17}, "model": "cosmos:item/titave_arm_off"},
+		{"predicate": {"custom_model_data": 18}, "model": "cosmos:item/titave_head_orange"},
+		{"predicate": {"custom_model_data": 19}, "model": "cosmos:item/titave_arm_orange"},
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/wand"}
+	]
+}

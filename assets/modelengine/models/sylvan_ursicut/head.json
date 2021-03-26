@@ -1,0 +1,132 @@
+{
+	"file_name": "head",
+	"texture_size": [
+		128,
+		128
+	],
+	"textures": {
+		"layer0": "modelengine:entity/sylvan_ursicut"
+	},
+	"elements": [
+		{
+			"name": "head_0",
+			"from": [
+				5.0,
+				5.0,
+				5.0
+			],
+			"to": [
+				11.0,
+				11.0,
+				11.0
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						8.375,
+						6.125,
+						9.625,
+						7.375
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5.875,
+						7.375,
+						7.125,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.125,
+						7.375,
+						8.375,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.625,
+						7.375,
+						10.875,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8.375,
+						7.375,
+						7.125,
+						6.125
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.375,
+						7.375,
+						9.625,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0.0,
+				-6.4,
+				0.0
+			],
+			"rotation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scale": [
+				3.8095,
+				3.8095,
+				3.8095
+			]
+		},
+		"gui": {
+			"translation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rotation": [
+				35.0,
+				225.0,
+				0.0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	}
+}

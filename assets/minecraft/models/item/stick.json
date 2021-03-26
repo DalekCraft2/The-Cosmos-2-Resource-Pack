@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/airlock_door"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/items/aluminium_rod"},
+		{"predicate": {"custom_model_data": 2200011}, "model": "slimefun:item/weapons/grandmas_walking_stick"},
+		{"predicate": {"custom_model_data": 2200012}, "model": "slimefun:item/weapons/grandpas_walking_stick"},
+		{"predicate": {"custom_model_data": 2200133}, "model": "slimefun:item/magical_gadgets/elemental_staff"},
+		{"predicate": {"custom_model_data": 2200134}, "model": "slimefun:item/magical_gadgets/wind_staff"},
+		{"predicate": {"custom_model_data": 2200135}, "model": "slimefun:item/magical_gadgets/water_staff"},
+		{"predicate": {"custom_model_data": 2200160}, "model": "slimefun:item/magical_gadgets/fire_staff"},
+		{"predicate": {"custom_model_data": 2200161}, "model": "slimefun:item/magical_gadgets/storm_staff"},
+		{"predicate": {"custom_model_data": 2200225}, "model": "slimefun:item/items/splint"}
+	]
+}

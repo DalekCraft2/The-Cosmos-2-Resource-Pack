@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/cornflower"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000019 }, "model": "item/eccentricdevotion/products/balloons/white_balloon"},
+		{"predicate": {"custom_model_data": 10000020 }, "model": "item/eccentricdevotion/products/balloons/orange_balloon"},
+		{"predicate": {"custom_model_data": 10000021 }, "model": "item/eccentricdevotion/products/balloons/magenta_balloon"},
+		{"predicate": {"custom_model_data": 10000022 }, "model": "item/eccentricdevotion/products/balloons/light_blue_balloon"},
+		{"predicate": {"custom_model_data": 10000023 }, "model": "item/eccentricdevotion/products/balloons/yellow_balloon"},
+		{"predicate": {"custom_model_data": 10000024 }, "model": "item/eccentricdevotion/products/balloons/lime_balloon"},
+		{"predicate": {"custom_model_data": 10000025 }, "model": "item/eccentricdevotion/products/balloons/pink_balloon"},
+		{"predicate": {"custom_model_data": 10000026 }, "model": "item/eccentricdevotion/products/balloons/gray_balloon"},
+		{"predicate": {"custom_model_data": 10000027 }, "model": "item/eccentricdevotion/products/balloons/light_gray_balloon"},
+		{"predicate": {"custom_model_data": 10000028 }, "model": "item/eccentricdevotion/products/balloons/cyan_balloon"},
+		{"predicate": {"custom_model_data": 10000029 }, "model": "item/eccentricdevotion/products/balloons/purple_balloon"},
+		{"predicate": {"custom_model_data": 10000030 }, "model": "item/eccentricdevotion/products/balloons/blue_balloon"},
+		{"predicate": {"custom_model_data": 10000031 }, "model": "item/eccentricdevotion/products/balloons/brown_balloon"},
+		{"predicate": {"custom_model_data": 10000032 }, "model": "item/eccentricdevotion/products/balloons/green_balloon"},
+		{"predicate": {"custom_model_data": 10000033 }, "model": "item/eccentricdevotion/products/balloons/red_balloon"},
+		{"predicate": {"custom_model_data": 10000034 }, "model": "item/eccentricdevotion/products/balloons/black_balloon"}
+	]
+}

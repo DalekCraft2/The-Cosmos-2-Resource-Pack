@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/pumpkin_pie"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200321}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200322}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200324}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200330}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200331}, "model": "slimefun:item/none"}
+	]
+}

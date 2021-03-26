@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/leather_boots",
+		"layer1": "minecraft:item/leather_boots_overlay"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200040}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200047}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200064}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200076}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200210}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200240}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200246}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200262}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200263}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200264}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200265}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200266}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200267}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200268}, "model": "slimefun:item/none"}
+	]
+}

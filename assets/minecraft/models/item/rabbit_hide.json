@@ -1,0 +1,41 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/rabbit_hide"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "qualityarmory:item/tankisbase"},
+		{"predicate": {"custom_model_data": 2}, "model": "qualityarmory:item/moskvitch"},
+		{"predicate": {"custom_model_data": 3}, "model": "qualityarmory:item/ladaniva"},
+		{"predicate": {"custom_model_data": 4}, "model": "qualityarmory:item/jeep"},
+		{"predicate": {"custom_model_data": 5}, "model": "qualityarmory:item/heli"},
+		{"predicate": {"custom_model_data": 6}, "model": "qualityarmory:item/civil_boat_1"},
+		{"predicate": {"custom_model_data": 7}, "model": "qualityarmory:item/mig1"},
+		{"predicate": {"custom_model_data": 8}, "model": "qualityarmory:item/polikarpov"},
+		{"predicate": {"custom_model_data": 9}, "model": "qualityarmory:item/cadillac_62"},
+		{"predicate": {"custom_model_data": 10}, "model": "qualityarmory:item/motorcycle"},
+		{"predicate": {"custom_model_data": 11}, "model": "qualityarmory:item/truck"},
+		{"predicate": {"custom_model_data": 12}, "model": "qualityarmory:item/shopping_cart"},
+		{"predicate": {"custom_model_data": 13}, "model": "qualityarmory:item/police_veh"},
+		{"predicate": {"custom_model_data": 14}, "model": "qualityarmory:item/unmarked_van"},
+		{"predicate": {"custom_model_data": 15}, "model": "qualityarmory:item/bus"},
+		{"predicate": {"custom_model_data": 16}, "model": "qualityarmory:item/b2_plane"},
+		{"predicate": {"custom_model_data": 17}, "model": "qualityarmory:item/private_plane"},
+		{"predicate": {"custom_model_data": 18}, "model": "qualityarmory:item/ambulance"},
+		{"predicate": {"custom_model_data": 19}, "model": "qualityarmory:item/sw_speeder_bike"},
+		{"predicate": {"custom_model_data": 20}, "model": "qualityarmory:item/sw_land_speeder"},
+		{"predicate": {"custom_model_data": 21}, "model": "qualityarmory:item/trolly"},
+		{"predicate": {"custom_model_data": 22}, "model": "qualityarmory:item/bumper_car_red"},
+		{"predicate": {"custom_model_data": 23}, "model": "qualityarmory:item/firetruck"},
+		{"predicate": {"custom_model_data": 24}, "model": "qualityarmory:item/taxi"},
+		{"predicate": {"custom_model_data": 25}, "model": "qualityarmory:item/hearse"},
+		{"predicate": {"custom_model_data": 26}, "model": "qualityarmory:item/ufo"},
+		{"predicate": {"custom_model_data": 27}, "model": "qualityarmory:item/news_van"},
+		{"predicate": {"custom_model_data": 28}, "model": "qualityarmory:item/swat_van"},
+		{"predicate": {"custom_model_data": 29}, "model": "qualityarmory:item/street_sweep"},
+		{"predicate": {"custom_model_data": 30}, "model": "qualityarmory:item/heli_orange"},
+		{"predicate": {"custom_model_data": 31}, "model": "qualityarmory:item/garbage_truck"},
+		{"predicate": {"custom_model_data": 32}, "model": "qualityarmory:item/pres_limo"},
+		{"predicate": {"custom_model_data": 33}, "model": "qualityarmory:item/lamborghini"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/quartz_slab",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200128}, "model": "slimefun:item/none"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/leather"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/gauntlet"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/solar_panel_on"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/blocks/solar_panel_off"}
+	]
+}

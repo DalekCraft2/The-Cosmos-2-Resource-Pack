@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_boots"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200068}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200072}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200236}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200269}, "model": "slimefun:item/none"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/comparator"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/apply"},
+		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/control_panel"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/genetic/button_master_on"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/genetic/button_master_off"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "cosmos:item/control_panel"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/guis/breath_dampener"},
+		{"predicate": {"custom_model_data": 2200004}, "model": "slimefun:item/gui/menu"}
+	]
+}

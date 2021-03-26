@@ -1,0 +1,468 @@
+{
+	"file_name": "venusian_vespula",
+	"texture_size": [
+		64,
+		64
+	],
+	"textures": {
+		"layer0": "modelengine:entity/venusian_vespula"
+	},
+	"elements": [
+		{
+			"name": "venusian_vespula_0",
+			"from": [
+				8.0,
+				10.4,
+				3.1999998
+			],
+			"to": [
+				11.6,
+				12.2,
+				4.3999996
+			],
+			"rotation": {
+				"angle": 45.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					10.4,
+					3.1999998
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						2.0,
+						7.0,
+						3.5,
+						7.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						7.5,
+						0.5,
+						8.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.5,
+						7.5,
+						2.0,
+						8.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2.5,
+						7.5,
+						4.0,
+						8.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						2.0,
+						7.5,
+						0.5,
+						7.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						2.0,
+						7.5,
+						2.5,
+						8.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "venusian_vespula_1",
+			"from": [
+				6.2,
+				10.700001,
+				3.4999998
+			],
+			"to": [
+				8.0,
+				11.3,
+				4.1
+			],
+			"rotation": {
+				"angle": 45.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					10.4,
+					3.1999998
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						1.0,
+						1.75,
+						1.75,
+						2.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						2.0,
+						0.25,
+						2.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.25,
+						2.0,
+						1.0,
+						2.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						1.25,
+						2.0,
+						2.0,
+						2.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						1.0,
+						2.0,
+						0.25,
+						1.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						1.0,
+						2.0,
+						1.25,
+						2.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "venusian_vespula_2",
+			"from": [
+				8.3,
+				8.6,
+				3.4999998
+			],
+			"to": [
+				8.9,
+				10.4,
+				4.1
+			],
+			"rotation": {
+				"angle": 45.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					10.4,
+					3.1999998
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						0.5,
+						3.75,
+						0.75,
+						4.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						4.0,
+						0.25,
+						4.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.25,
+						4.0,
+						0.5,
+						4.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						0.75,
+						4.0,
+						1.0,
+						4.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.5,
+						4.0,
+						0.25,
+						3.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						0.5,
+						4.0,
+						0.75,
+						4.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "venusian_vespula_3",
+			"from": [
+				8.0,
+				12.2,
+				3.1999998
+			],
+			"to": [
+				9.8,
+				14.0,
+				4.3999996
+			],
+			"rotation": {
+				"angle": 45.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					10.4,
+					3.1999998
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						4.0,
+						3.75,
+						4.75,
+						4.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						2.75,
+						4.25,
+						3.25,
+						5.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						3.25,
+						4.25,
+						4.0,
+						5.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						4.5,
+						4.25,
+						5.25,
+						5.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						4.0,
+						4.25,
+						3.25,
+						3.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4.0,
+						4.25,
+						4.5,
+						5.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "venusian_vespula_4",
+			"from": [
+				6.5,
+				11.0,
+				4.3999996
+			],
+			"to": [
+				9.5,
+				13.400001,
+				10.4
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						3.75,
+						0.0,
+						5.0,
+						2.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						2.5,
+						2.5,
+						3.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						2.5,
+						2.5,
+						3.75,
+						3.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6.25,
+						2.5,
+						7.5,
+						3.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						3.75,
+						2.5,
+						2.5,
+						0.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						3.75,
+						2.5,
+						6.25,
+						3.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0.0,
+				-6.4,
+				0.0
+			],
+			"rotation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scale": [
+				3.8095,
+				3.8095,
+				3.8095
+			]
+		},
+		"gui": {
+			"translation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rotation": [
+				35.0,
+				225.0,
+				0.0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	}
+}

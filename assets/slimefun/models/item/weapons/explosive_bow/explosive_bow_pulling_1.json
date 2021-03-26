@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/explosive_bow_pulling_0",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "slimefun:item/weapons/explosive_bow/explosive_bow_pulling_1"
+	}
+}

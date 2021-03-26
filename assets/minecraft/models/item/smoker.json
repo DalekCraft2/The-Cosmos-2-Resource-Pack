@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/smoker",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/coal_generator"},
+		{"predicate": {"custom_model_data": 2200374}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200375}, "model": "slimefun:item/none"}
+	]
+}

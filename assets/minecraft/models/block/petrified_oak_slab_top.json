@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/slab_top",
+	"textures": {
+		"bottom": "cosmos:block/petrified_planks",
+		"top": "cosmos:block/petrified_planks",
+		"side": "cosmos:block/petrified_planks"
+	}
+}

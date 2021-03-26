@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cooked_cod"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200024}, "model": "slimefun:item/food/fish_jerky"},
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/food/fish_finger"}
+	]
+}

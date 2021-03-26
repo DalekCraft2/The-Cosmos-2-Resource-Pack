@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cobblestone",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bowl/standard_sonic"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/nuclear_reactor"}
+	]
+}

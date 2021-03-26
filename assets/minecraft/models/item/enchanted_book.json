@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/enchanted_book"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200001}, "model": "slimefun:item/gui/slimefun_guide"},
+		{"predicate": {"custom_model_data": 2200003}, "model": "slimefun:item/gui/back"},
+		{"predicate": {"custom_model_data": 2200313}, "model": "slimefun:item/magical_gadgets/knowledge_tome"}
+	]
+}

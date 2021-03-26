@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/template_command_block",
+	"textures": {
+		"front": "cosmos:block/repeating_command_block_front",
+		"back": "cosmos:block/repeating_command_block_back",
+		"side": "cosmos:block/repeating_command_block_side"
+	}
+}

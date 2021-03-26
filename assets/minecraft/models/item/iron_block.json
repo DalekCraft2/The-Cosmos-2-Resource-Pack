@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/iron_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/budget"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/suit_fabricator"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/blocks/modular_workbench"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/blocks/sword_editor"},
+		{"predicate": {"custom_model_data": 2200382}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200383}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200462}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200525}, "model": "slimefun:item/none"}
+	]
+}

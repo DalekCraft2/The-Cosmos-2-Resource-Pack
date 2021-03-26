@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/template_skull",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200259}, "model": "slimefun:item/magical_items/necrotic_skull"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/potion_overlay",
+		"layer1": "minecraft:item/potion"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200228}, "model": "slimefun:item/items/medicine"},
+		{"predicate": {"custom_model_data": 2200284}, "model": "slimefun:item/food/apple_juice"},
+		{"predicate": {"custom_model_data": 2200285}, "model": "slimefun:item/food/carrot_juice"},
+		{"predicate": {"custom_model_data": 2200286}, "model": "slimefun:item/food/melon_juice"},
+		{"predicate": {"custom_model_data": 2200287}, "model": "slimefun:item/food/pumpkin_juice"},
+		{"predicate": {"custom_model_data": 2200288}, "model": "slimefun:item/food/sweet_berry_juice"},
+		{"predicate": {"custom_model_data": 2200289}, "model": "slimefun:item/food/golden_apple_juice"},
+		{"predicate": {"custom_model_data": 2200316}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200317}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200318}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200319}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200323}, "model": "slimefun:item/none"}
+	]
+}

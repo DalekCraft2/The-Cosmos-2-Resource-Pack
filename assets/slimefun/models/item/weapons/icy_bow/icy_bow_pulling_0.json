@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/icy_bow",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "slimefun:item/weapons/icy_bow/icy_bow_pulling_0"
+	}
+}

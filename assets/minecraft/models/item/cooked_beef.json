@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cooked_beef"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/canned_beef"},
+		{"predicate": {"custom_model_data": 2200019}, "model": "slimefun:item/food/beef_jerky"}
+	]
+}

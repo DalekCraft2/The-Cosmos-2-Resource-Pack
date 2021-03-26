@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/netherite_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "space:item/items/lightsabers/anakin_saber"},
+		{"predicate": {"custom_model_data": 2}, "model": "space:item/items/lightsabers/vader_saber"},
+		{"predicate": {"custom_model_data": 3}, "model": "space:item/items/lightsabers/dark_saber"},
+		{"predicate": {"custom_model_data": 4}, "model": "space:item/items/lightsabers/maul_saber"},
+		{"predicate": {"custom_model_data": 5}, "model": "space:item/items/lightsabers/luke_saber"},
+		{"predicate": {"custom_model_data": 6}, "model": "space:item/items/lightsabers/windu_saber"},
+		{"predicate": {"custom_model_data": 7}, "model": "space:item/items/lightsabers/kylo_saber"},
+		{"predicate": {"custom_model_data": 8}, "model": "space:item/items/lightsabers/lightsaber_purple"},
+		{"predicate": {"custom_model_data": 9}, "model": "space:item/items/lightsabers/maul_saber"},
+		{"predicate": {"custom_model_data": 10}, "model": "space:item/items/lightsabers/ahsoka_saber"},
+		{"predicate": {"custom_model_data": 11}, "model": "space:item/items/lightsabers/dooku_saber"},
+		{"predicate": {"custom_model_data": 12}, "model": "space:item/items/lightsabers/plokoon_saber"},
+		{"predicate": {"custom_model_data": 13}, "model": "qualityarmory:item/beskar_staff"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/gunpowder"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/toclafane"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/toclafane_attack"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/genetic/toclafane"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/gui/thunder"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/uranium_dust"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/items/rubber"},
+		{"predicate": {"custom_model_data": 2200055}, "model": "slimefun:item/miscellaneous/sifted_ore"},
+		{"predicate": {"custom_model_data": 2200096}, "model": "slimefun:item/resources/dusts/iron_dust"},
+		{"predicate": {"custom_model_data": 2200100}, "model": "slimefun:item/resources/dusts/lead_dust"},
+		{"predicate": {"custom_model_data": 2200211}, "model": "slimefun:item/miscellaneous/crushed_ore"},
+		{"predicate": {"custom_model_data": 2200212}, "model": "slimefun:item/miscellaneous/pulverized_ore"},
+		{"predicate": {"custom_model_data": 2200213}, "model": "slimefun:item/miscellaneous/pure_ore_cluster"},
+		{"predicate": {"custom_model_data": 2200260}, "model": "slimefun:item/magical_items/essence_of_afterlife"}
+	]
+}

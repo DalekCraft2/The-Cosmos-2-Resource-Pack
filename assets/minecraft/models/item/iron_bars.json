@@ -1,0 +1,6 @@
+{
+	"parent": "cosmos:item/full_pane",
+	"textures": {
+		"layer0": "minecraft:block/iron_bars"
+	}
+}

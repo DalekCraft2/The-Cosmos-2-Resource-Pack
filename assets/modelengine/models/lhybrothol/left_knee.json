@@ -1,0 +1,132 @@
+{
+	"file_name": "left_knee",
+	"texture_size": [
+		128,
+		128
+	],
+	"textures": {
+		"layer0": "modelengine:entity/lhybrothol"
+	},
+	"elements": [
+		{
+			"name": "left_knee_0",
+			"from": [
+				7.1,
+				1.3999997,
+				6.8
+			],
+			"to": [
+				8.9,
+				8.0,
+				9.2
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						0.875,
+						6.75,
+						1.25,
+						7.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						7.25,
+						0.5,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.5,
+						7.25,
+						0.875,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						1.375,
+						7.25,
+						1.75,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.875,
+						7.25,
+						0.5,
+						6.75
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						0.875,
+						7.25,
+						1.375,
+						8.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0.0,
+				-6.4,
+				0.0
+			],
+			"rotation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scale": [
+				3.8095,
+				3.8095,
+				3.8095
+			]
+		},
+		"gui": {
+			"translation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rotation": [
+				35.0,
+				225.0,
+				0.0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	}
+}

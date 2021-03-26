@@ -1,0 +1,12 @@
+{
+	"credit": "Made by OLLIEZ4",
+	"parent": "space:item/guis/template_gui",
+	"textures": {
+		"layer0": "space:item/guis/back_arrow"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0]
+		}
+	}
+}

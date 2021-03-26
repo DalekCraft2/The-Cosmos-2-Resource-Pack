@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/golden_chestplate"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200203}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200219}, "model": "slimefun:item/none"}
+	]
+}

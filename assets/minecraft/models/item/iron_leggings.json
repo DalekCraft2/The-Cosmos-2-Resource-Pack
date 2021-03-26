@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_leggings"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200067}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200071}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200235}, "model": "slimefun:item/none"}
+	]
+}

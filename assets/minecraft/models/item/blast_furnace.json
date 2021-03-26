@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/blast_furnace",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/chemistry"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/tank_refiller"},
+		{"predicate": {"custom_model_data": 2200056}, "model": "slimefun:item/none"}
+	]
+}

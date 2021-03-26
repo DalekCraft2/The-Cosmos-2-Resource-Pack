@@ -1,0 +1,216 @@
+{
+	"file_name": "metro_cop",
+	"texture_size": [
+		128,
+		128
+	],
+	"textures": {
+		"layer0": "modelengine:entity/metro_cop"
+	},
+	"elements": [
+		{
+			"name": "metro_cop_0",
+			"from": [
+				5.6,
+				15.8,
+				6.8
+			],
+			"to": [
+				10.4,
+				19.400002,
+				9.2
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						8.125,
+						12.0,
+						9.125,
+						12.5
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						6.625,
+						12.5,
+						7.125,
+						13.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.125,
+						12.5,
+						8.125,
+						13.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8.625,
+						12.5,
+						9.625,
+						13.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8.125,
+						12.5,
+						7.125,
+						12.0
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.125,
+						12.5,
+						8.625,
+						13.25
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "metro_cop_1",
+			"from": [
+				5.6,
+				14.6,
+				6.8
+			],
+			"to": [
+				10.4,
+				15.8,
+				9.2
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "z",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						8.125,
+						11.125,
+						9.125,
+						11.625
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						6.625,
+						11.625,
+						7.125,
+						11.875
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.125,
+						11.625,
+						8.125,
+						11.875
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8.625,
+						11.625,
+						9.625,
+						11.875
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8.125,
+						11.625,
+						7.125,
+						11.125
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.125,
+						11.625,
+						8.625,
+						11.875
+					],
+					"texture": "#layer0",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0.0,
+				-6.4,
+				0.0
+			],
+			"rotation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scale": [
+				3.8095,
+				3.8095,
+				3.8095
+			]
+		},
+		"gui": {
+			"translation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rotation": [
+				35.0,
+				225.0,
+				0.0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	}
+}

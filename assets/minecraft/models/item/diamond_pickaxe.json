@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/diamond_pickaxe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200163}, "model": "slimefun:item/tools/smelter_pickaxe"},
+		{"predicate": {"custom_model_data": 2200241}, "model": "slimefun:item/tools/explosive_pickaxe"},
+		{"predicate": {"custom_model_data": 2200245}, "model": "slimefun:item/basic_machines/advanced_industrial_miner"},
+		{"predicate": {"custom_model_data": 2200247}, "model": "slimefun:item/tools/seeker_pickaxe"},
+		{"predicate": {"custom_model_data": 2200271}, "model": "slimefun:item/tools/vein_pickaxe"},
+		{"predicate": {"custom_model_data": 2200275}, "model": "slimefun:item/tools/soulbound_pickaxe"}
+	]
+}

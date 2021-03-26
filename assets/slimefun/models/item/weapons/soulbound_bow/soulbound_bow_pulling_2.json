@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/soulbound_bow_pulling_1",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "slimefun:item/weapons/soulbound_bow/soulbound_bow_pulling_2"
+	}
+}

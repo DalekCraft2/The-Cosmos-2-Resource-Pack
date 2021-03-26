@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/totem_of_undying"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/cthulhu_idol"},
+		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/hollow_totem"},
+		{"predicate": {"custom_model_data": 2200424}, "model": "slimefun:item/none"}
+	]
+}

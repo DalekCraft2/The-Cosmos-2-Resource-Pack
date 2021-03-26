@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/brown_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200354}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200355}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200356}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200485}, "model": "slimefun:item/none"}
+	]
+}

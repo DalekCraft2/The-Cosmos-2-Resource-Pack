@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/enchanting_table",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/library"},
+		{"predicate": {"custom_model_data": 2200338}, "model": "slimefun:item/magical_gadgets/ancient_altar"},
+		{"predicate": {"custom_model_data": 2200380}, "model": "slimefun:item/energy/auto_enchanter"},
+		{"predicate": {"custom_model_data": 2200381}, "model": "slimefun:item/energy/auto_disenchanter"}
+	]
+}

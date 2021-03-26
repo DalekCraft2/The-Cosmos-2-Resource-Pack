@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/golden_leggings"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200204}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200220}, "model": "slimefun:item/none"}
+	]
+}

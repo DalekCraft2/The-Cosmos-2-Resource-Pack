@@ -1,0 +1,13 @@
+{
+	"credit": "Made by OLLIEZ4",
+	"parent": "space:item/guis/template_gui",
+	"textures": {
+		"layer0": "space:item/guis/nuclear_reactor_gui_off"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 0, 1],
+			"scale": [3, 3, 3]
+		}
+	}
+}

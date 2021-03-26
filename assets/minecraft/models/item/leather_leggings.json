@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/leather_leggings",
+		"layer1": "minecraft:item/leather_leggings_overlay"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200039}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200046}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200063}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200075}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200209}, "model": "slimefun:item/none"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/hopper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/rail"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/genetic/button_age"},
+		{"predicate": {"custom_model_data": 2200465}, "model": "slimefun:item/magical_gadgets/infused_hopper"}
+	]
+}

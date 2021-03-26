@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/anvil",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "space:item/guis/sword_unbreaking"},
+		{"predicate": {"custom_model_data": 2200027}, "model": "slimefun:item/basic_machines/armor_forge"}
+	]
+}
