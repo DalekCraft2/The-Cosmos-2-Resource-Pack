@@ -4,9 +4,9 @@
 		"layer0": "minecraft:item/barrier"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/guis/back_arrow"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/guis/cross"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/guis/forward_arrow"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/back_arrow"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/cross"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/forward_arrow"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/monster/weeping_angel_wing"}
 	]
 }

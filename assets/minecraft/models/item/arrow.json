@@ -17,6 +17,6 @@
 		{"predicate": {"custom_model_data": 11}, "model": "tardis:item/gui/page_one"},
 		{"predicate": {"custom_model_data": 12}, "model": "tardis:item/gui/page_two"},
 		{"predicate": {"custom_model_data": 13}, "model": "tardis:item/monster/judoon/judoon_ammo"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/radioactive_arrow"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/radioactive_arrow"}
 	]
 }

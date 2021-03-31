@@ -5,6 +5,7 @@
 		"layer1": "minecraft:item/leather_chestplate_overlay"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/hazmat_chestplate"},
 		{"predicate": {"custom_model_data": 2200038}, "model": "slimefun:item/none"},
 		{"predicate": {"custom_model_data": 2200045}, "model": "slimefun:item/none"},
 		{"predicate": {"custom_model_data": 2200062}, "model": "slimefun:item/none"},

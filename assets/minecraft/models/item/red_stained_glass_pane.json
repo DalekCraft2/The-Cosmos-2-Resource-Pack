@@ -4,7 +4,7 @@
 		"layer0": "minecraft:block/red_stained_glass"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/wire"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/wire"},
 		{"predicate": {"custom_model_data": 10000018}, "model": "tardis:item/products/glow_sticks/red_glow_stick"},
 		{"predicate": {"custom_model_data": 12000018}, "model": "tardis:item/products/glow_sticks/red_glow_stick_active"}
 	]

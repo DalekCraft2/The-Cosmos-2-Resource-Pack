@@ -4,8 +4,8 @@
 		"layer0": "minecraft:item/gold_ingot"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/copper_ingot"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/items/refiller"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/copper_ingot"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/oxygen_refiller"},
 		{"predicate": {"custom_model_data": 2200084}, "model": "slimefun:item/resources/ingots/brass_ingot"},
 		{"predicate": {"custom_model_data": 2200085}, "model": "slimefun:item/resources/ingots/aluminum_brass_ingot"},
 		{"predicate": {"custom_model_data": 2200086}, "model": "slimefun:item/resources/ingots/aluminum_bronze_ingot"},

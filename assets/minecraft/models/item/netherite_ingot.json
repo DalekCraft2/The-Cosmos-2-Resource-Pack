@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/forge"},
-		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/beta_tester"}
+		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/pocket_galaxy"}
 	]
 }

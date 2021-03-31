@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "qualityarmory:item/beskar_staff"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/guis/sword_sharpness"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_sharpness"},
 		{"predicate": {"custom_model_data": 2200272}, "model": "slimefun:item/weapons/soulbound_sword"}
 	]
 }

@@ -2,7 +2,7 @@
 	"parent": "minecraft:block/dispenser",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/vault"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/oxygen_bubble_distributor"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_bubble_distributor"},
 		{"predicate": {"custom_model_data": 2200026}, "model": "slimefun:item/basic_machines/grind_stone"},
 		{"predicate": {"custom_model_data": 2200028}, "model": "slimefun:item/basic_machines/ore_crusher"},
 		{"predicate": {"custom_model_data": 2200309}, "model": "slimefun:item/basic_machines/block_placer"},

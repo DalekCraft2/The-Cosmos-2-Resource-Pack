@@ -5,9 +5,9 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 10}, "model": "cosmos:item/dwerthraul_fang"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/space_sword"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/items/ender_sword"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/items/fire_sword"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/adamantium_sword"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/ender_sword"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/fire_sword"},
 		{"predicate": {"custom_model_data": 2200048}, "model": "slimefun:item/weapons/sword_of_beheading"}
 	]
 }

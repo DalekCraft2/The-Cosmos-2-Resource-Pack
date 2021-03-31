@@ -4,6 +4,9 @@
 		"layer0": "minecraft:item/golden_boots"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_boots"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/rogue_boots"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/explorer_boots"},
 		{"predicate": {"custom_model_data": 2200205}, "model": "slimefun:item/none"},
 		{"predicate": {"custom_model_data": 2200221}, "model": "slimefun:item/none"}
 	]

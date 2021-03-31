@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/ender_eye"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/ender_essence"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/ender_essence"},
 		{"predicate": {"custom_model_data": 2200041}, "model": "slimefun:item/magical_gadgets/magic_ender_eye"}
 	]
 }

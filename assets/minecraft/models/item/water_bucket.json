@@ -6,6 +6,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/planets/acid_bucket"},
 		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/rain"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/guis/water_breathing"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/water_breathing"}
 	]
 }

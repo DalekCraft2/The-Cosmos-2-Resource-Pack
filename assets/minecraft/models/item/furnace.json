@@ -2,7 +2,7 @@
 	"parent": "minecraft:block/furnace",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/lazarus"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/oxygen_collector"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_collector"},
 		{"predicate": {"custom_model_data": 2200057}, "model": "slimefun:item/basic_machines/smeltery"},
 		{"predicate": {"custom_model_data": 2200292}, "model": "slimefun:item/basic_machines/enhanced_furnace_1"},
 		{"predicate": {"custom_model_data": 2200293}, "model": "slimefun:item/basic_machines/enhanced_furnace_2"},

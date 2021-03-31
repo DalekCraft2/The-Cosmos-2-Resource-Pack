@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/glass_bottle"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/tank"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/oxygen_tank"},
 		{"predicate": {"custom_model_data": 2200283}, "model": "slimefun:item/basic_machines/juicer"},
 		{"predicate": {"custom_model_data": 2200314}, "model": "slimefun:item/magical_gadgets/knowledge_flask"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/compounds/aluminium_oxide"},

@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/stone_hoe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/scrubber"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/co2_scrubber"}
 	]
 }

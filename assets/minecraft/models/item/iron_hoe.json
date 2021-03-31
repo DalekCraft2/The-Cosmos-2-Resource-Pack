@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/crowbar"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/wrench"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/wrench"}
 	]
 }

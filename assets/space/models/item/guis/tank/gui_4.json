@@ -1,8 +1,0 @@
-{
-	"credit": "Made by OLLIEZ4",
-	"parent": "space:item/guis/tank/template_tank_gui",
-	"textures": {
-		"layer0": "space:item/guis/tank/gui_4",
-		"particle": "space:item/guis/tank/gui_4"
-	}
-}

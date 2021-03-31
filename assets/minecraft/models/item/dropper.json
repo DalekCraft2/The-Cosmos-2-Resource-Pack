@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/dropper",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/artificial_gravity_generator"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/artificial_gravity_generator"},
 		{"predicate": {"custom_model_data": 2200058}, "model": "slimefun:item/basic_machines/automatic_ignition_chamber"}
 	]
 }

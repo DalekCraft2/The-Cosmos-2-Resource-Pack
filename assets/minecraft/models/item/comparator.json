@@ -9,7 +9,7 @@
 		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/genetic/button_master_on"},
 		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/genetic/button_master_off"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "cosmos:item/control_panel"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/guis/breath_dampener"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/breath_dampener"},
 		{"predicate": {"custom_model_data": 2200004}, "model": "slimefun:item/gui/menu"}
 	]
 }

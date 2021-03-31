@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/cooked_porkchop"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/spam"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/spam"},
 		{"predicate": {"custom_model_data": 2200020}, "model": "slimefun:item/food/pork_jerky"}
 	]
 }

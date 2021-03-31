@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/nether_brick"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/battery"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/battery"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/acid_battery"}
 	]
 }

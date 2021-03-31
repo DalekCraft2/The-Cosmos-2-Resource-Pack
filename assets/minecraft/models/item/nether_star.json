@@ -6,6 +6,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/admin"},
 		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/bowl/button_prefs"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/items/blast_resistance_core"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blast_resistance_core"}
 	]
 }

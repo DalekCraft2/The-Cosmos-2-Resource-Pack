@@ -2,6 +2,6 @@
 	"parent": "minecraft:block/diamond_block",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/deluxe"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blocks/tesseract"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tesseract"}
 	]
 }

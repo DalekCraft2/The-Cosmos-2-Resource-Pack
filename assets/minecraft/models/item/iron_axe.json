@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/dalek_bronze"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/guis/sword_fix"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_fix"},
 		{"predicate": {"custom_model_data": 2200270}, "model": "slimefun:item/weapons/seismic_axe"}
 	]
 }
