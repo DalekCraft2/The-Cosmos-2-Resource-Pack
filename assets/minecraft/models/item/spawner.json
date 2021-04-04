@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/spawner",
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200290}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200291}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200290}, "model": "slimefun:item/magical_items/broken_spawner"},
+		{"predicate": {"custom_model_data": 2200291}, "model": "slimefun:item/magical_gadgets/reinforced_spawner"}
 	]
 }

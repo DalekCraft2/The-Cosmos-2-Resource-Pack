@@ -5,9 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 2200427}, "model": "slimefun:item/magical_gadgets/rainbow_glass_pane"},
-		{"predicate": {"custom_model_data": 2200433}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200439}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200445}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200433}, "model": "slimefun:item/seasonal/christmas/christmas_rainbow_glass_pane"},
 		{"predicate": {"custom_model_data": 10000005}, "model": "tardis:item/products/glow_sticks/white_glow_stick"},
 		{"predicate": {"custom_model_data": 12000005}, "model": "tardis:item/products/glow_sticks/white_glow_stick_active"}
 	]

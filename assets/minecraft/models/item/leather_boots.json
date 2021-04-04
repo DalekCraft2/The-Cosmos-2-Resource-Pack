@@ -6,19 +6,19 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/hazmat_boots"},
-		{"predicate": {"custom_model_data": 2200040}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200047}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200064}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200076}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200210}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200240}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200246}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200262}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200263}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200264}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200265}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200266}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200267}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200268}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200040}, "model": "slimefun:item/magical_armor/ender_boots"},
+		{"predicate": {"custom_model_data": 2200047}, "model": "slimefun:item/magical_armor/slime_boots"},
+		{"predicate": {"custom_model_data": 2200064}, "model": "slimefun:item/magical_armor/glowstone_boots"},
+		{"predicate": {"custom_model_data": 2200076}, "model": "slimefun:item/armor/cactus_boots"},
+		{"predicate": {"custom_model_data": 2200210}, "model": "slimefun:item/armor/hazmat_boots"},
+		{"predicate": {"custom_model_data": 2200240}, "model": "slimefun:item/magical_armor/farmer_shoes"},
+		{"predicate": {"custom_model_data": 2200246}, "model": "slimefun:item/magical_armor/boots_of_the_stomper"},
+		{"predicate": {"custom_model_data": 2200262}, "model": "slimefun:item/technical_gadgets/jet_boots_1"},
+		{"predicate": {"custom_model_data": 2200263}, "model": "slimefun:item/technical_gadgets/jet_boots_2"},
+		{"predicate": {"custom_model_data": 2200264}, "model": "slimefun:item/technical_gadgets/jet_boots_3"},
+		{"predicate": {"custom_model_data": 2200265}, "model": "slimefun:item/technical_gadgets/jet_boots_4"},
+		{"predicate": {"custom_model_data": 2200266}, "model": "slimefun:item/technical_gadgets/jet_boots_5"},
+		{"predicate": {"custom_model_data": 2200267}, "model": "slimefun:item/technical_gadgets/jet_boots_6"},
+		{"predicate": {"custom_model_data": 2200268}, "model": "slimefun:item/technical_gadgets/jet_boots_7"}
 	]
 }

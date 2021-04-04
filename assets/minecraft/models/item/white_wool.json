@@ -6,8 +6,6 @@
 		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/map/level_top"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/flag"},
 		{"predicate": {"custom_model_data": 2200425}, "model": "slimefun:item/magical_gadgets/rainbow_wool"},
-		{"predicate": {"custom_model_data": 2200431}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200437}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200443}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200431}, "model": "slimefun:item/seasonal/christmas/christmas_rainbow_wool"}
 	]
 }

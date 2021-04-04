@@ -4,8 +4,9 @@
 		"layer0": "minecraft:item/iron_chestplate"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200066}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200070}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200234}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_chestplate"},
+		{"predicate": {"custom_model_data": 2200066}, "model": "slimefun:item/armor/damascus_steel_chestplate"},
+		{"predicate": {"custom_model_data": 2200070}, "model": "slimefun:item/armor/reinforced_alloy_chestplate"},
+		{"predicate": {"custom_model_data": 2200234}, "model": "slimefun:item/magical_armor/slime_steel_chestplate"}
 	]
 }

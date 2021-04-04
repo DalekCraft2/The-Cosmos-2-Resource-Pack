@@ -2,6 +2,6 @@
 	"credit": "Made by OLLIEZ4",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "space:item/guis/sword_unbreaking"
+		"layer0": "space:gui/sword_unbreaking"
 	}
 }

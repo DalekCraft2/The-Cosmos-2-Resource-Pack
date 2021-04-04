@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/diamond_helmet"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200279}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200279}, "model": "slimefun:item/magical_armor/soulbound_helmet"}
 	]
 }

@@ -96,8 +96,8 @@
 		{"predicate": {"custom_model_data": 25}, "model": "tardis:item/gui/clock/three_am"},
 		{"predicate": {"custom_model_data": 26}, "model": "tardis:item/gui/clock/four_am"},
 		{"predicate": {"custom_model_data": 27}, "model": "tardis:item/gui/clock/five_am"},
-		{"predicate": {"custom_model_data": 2200384}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200451}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200384}, "model": "slimefun:item/technical_gadgets/multimeter"},
+		{"predicate": {"custom_model_data": 2200451}, "model": "slimefun:item/gps/portable_geo_scanner"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/fob_watch"}
 	]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/pink_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200440}, "model": "slimefun:item/seasonal/valentine/valentine_rainbow_terracotta"}
+	]
+}

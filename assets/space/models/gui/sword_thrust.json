@@ -2,6 +2,6 @@
 	"credit": "Made by OLLIEZ4",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "space:item/guis/sword_thrust"
+		"layer0": "space:gui/sword_thrust"
 	}
 }

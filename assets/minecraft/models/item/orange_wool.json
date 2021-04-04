@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/orange_wool",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200443}, "model": "slimefun:item/seasonal/halloween/halloween_rainbow_wool"}
+	]
+}

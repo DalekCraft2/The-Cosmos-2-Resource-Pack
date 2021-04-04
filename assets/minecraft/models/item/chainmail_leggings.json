@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/chainmail_leggings"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200191}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200191}, "model": "slimefun:item/armor/chainmail_leggings"}
 	]
 }

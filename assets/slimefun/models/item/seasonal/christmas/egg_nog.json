@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "slimefun:item/seasonal/christmas/egg_nog",
+		"layer1": "slimefun:item/seasonal/christmas/egg_nog"
+	}
+}

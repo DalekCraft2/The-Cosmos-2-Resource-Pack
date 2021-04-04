@@ -131,6 +131,12 @@
 		],
 		"subtitle": "Vehicle drives"
 	},
+	"driving2": {
+		"sounds": [
+			"qualityarmory:driving2"
+		],
+		"subtitle": "Vehicle drives"
+	},
 	"engine": {
 		"sounds": [
 			"qualityarmory:engine"
@@ -173,11 +179,101 @@
 		],
 		"subtitle": "Lightsaber activates"
 	},
+	"reloadclick": {
+		"sounds": [
+			"qualityarmory:reloadclick"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"reloadmagclick": {
+		"sounds": [
+			"qualityarmory:reloadmagclick"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"outofammoclick": {
+		"sounds": [
+			"qualityarmory:outofammoclick"
+		],
+		"subtitle": "Gun fails"
+	},
+	"openbag": {
+		"sounds": [
+			"qualityarmory:openbag"
+		],
+		"subtitle": "Bag opens"
+	},
+	"partyshot": {
+		"sounds": [
+			"qualityarmory:partyshot"
+		],
+		"subtitle": "Party popper pops"
+	},
+	"thumper": {
+		"sounds": [
+			"qualityarmory:thumper"
+		],
+		"subtitle": "Gun fires"
+	},
 	"bulletsilence": {
 		"sounds": [
 			"qualityarmory:bulletsilence"
 		],
 		"subtitle": "Gun fires"
+	},
+	"reloadak47": {
+		"sounds": [
+			"qualityarmory:reloadak47"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"reloadslide": {
+		"sounds": [
+			"qualityarmory:reloadslide"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"bulletmauser": {
+		"sounds": [
+			"qualityarmory:bulletmauser"
+		],
+		"subtitle": "Gun fires"
+	},
+	"bulletak47": {
+		"sounds": [
+			"qualityarmory:bulletak47"
+		],
+		"subtitle": "Gun fires"
+	},
+	"reloadfn": {
+		"sounds": [
+			"qualityarmory:reloadfn"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"reloadm16": {
+		"sounds": [
+			"qualityarmory:reloadm16"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"reloadshotgun": {
+		"sounds": [
+			"qualityarmory:reloadshotgun"
+		],
+		"subtitle": "Gun reloads"
+	},
+	"bulletshotgun": {
+		"sounds": [
+			"qualityarmory:bulletshotgun"
+		],
+		"subtitle": "Gun fires"
+	},
+	"reloadshell": {
+		"sounds": [
+			"qualityarmory:reloadshell"
+		],
+		"subtitle": "Gun reloads"
 	},
 	"airlock": {
 		"sounds":[

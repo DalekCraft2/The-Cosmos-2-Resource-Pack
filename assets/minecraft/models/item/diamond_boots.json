@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/jetboots"},
-		{"predicate": {"custom_model_data": 2200282}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200282}, "model": "slimefun:item/magical_armor/soulbound_boots"}
 	]
 }

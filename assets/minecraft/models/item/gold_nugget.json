@@ -20,10 +20,10 @@
 		{"predicate": {"custom_model_data": 14}, "model": "tardis:item/key/perception_filter"},
 		{"predicate": {"custom_model_data": 15}, "model": "tardis:item/key/remote"},
 		{"predicate": {"custom_model_data": 2200030}, "model": "slimefun:item/magical_items/magical_lump"},
-		{"predicate": {"custom_model_data": 2200031}, "model": "slimefun:item/magical_items/magical_lump2"},
-		{"predicate": {"custom_model_data": 2200032}, "model": "slimefun:item/magical_items/magical_lump3"},
+		{"predicate": {"custom_model_data": 2200031}, "model": "slimefun:item/magical_items/magical_lump_2"},
+		{"predicate": {"custom_model_data": 2200032}, "model": "slimefun:item/magical_items/magical_lump_3"},
 		{"predicate": {"custom_model_data": 2200033}, "model": "slimefun:item/magical_items/ender_lump"},
-		{"predicate": {"custom_model_data": 2200034}, "model": "slimefun:item/magical_items/ender_lump2"},
-		{"predicate": {"custom_model_data": 2200035}, "model": "slimefun:item/magical_items/ender_lump3"}
+		{"predicate": {"custom_model_data": 2200034}, "model": "slimefun:item/magical_items/ender_lump_2"},
+		{"predicate": {"custom_model_data": 2200035}, "model": "slimefun:item/magical_items/ender_lump_3"}
 	]
 }

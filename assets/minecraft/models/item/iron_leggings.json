@@ -4,8 +4,9 @@
 		"layer0": "minecraft:item/iron_leggings"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200067}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200071}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200235}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_leggings"},
+		{"predicate": {"custom_model_data": 2200067}, "model": "slimefun:item/armor/damascus_steel_leggings"},
+		{"predicate": {"custom_model_data": 2200071}, "model": "slimefun:item/armor/reinforced_alloy_leggings"},
+		{"predicate": {"custom_model_data": 2200235}, "model": "slimefun:item/magical_armor/slime_steel_leggings"}
 	]
 }

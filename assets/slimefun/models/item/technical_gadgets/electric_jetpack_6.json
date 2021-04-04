@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "slimefun:item/technical_gadgets/electric_jetpack_6"
+	}
+}

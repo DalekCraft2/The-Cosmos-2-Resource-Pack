@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/cake"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200315}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200315}, "model": "slimefun:item/seasonal/birthday/birthday_cake"}
 	]
 }

@@ -4,9 +4,10 @@
 		"layer0": "minecraft:item/iron_boots"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200068}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200072}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200236}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200269}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_boots"},
+		{"predicate": {"custom_model_data": 2200068}, "model": "slimefun:item/armor/damascus_steel_boots"},
+		{"predicate": {"custom_model_data": 2200072}, "model": "slimefun:item/armor/reinforced_alloy_boots"},
+		{"predicate": {"custom_model_data": 2200236}, "model": "slimefun:item/magical_armor/slime_steel_boots"},
+		{"predicate": {"custom_model_data": 2200269}, "model": "slimefun:item/technical_gadgets/jet_boots_armored"}
 	]
 }

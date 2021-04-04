@@ -6,6 +6,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/cthulhu_idol"},
 		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/hollow_totem"},
-		{"predicate": {"custom_model_data": 2200424}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200424}, "model": "slimefun:item/magical_gadgets/totem_of_undying"}
 	]
 }

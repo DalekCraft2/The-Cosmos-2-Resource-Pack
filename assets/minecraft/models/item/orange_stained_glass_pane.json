@@ -4,6 +4,7 @@
 		"layer0": "minecraft:block/orange_stained_glass"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 2200445}, "model": "slimefun:item/seasonal/halloween/halloween_rainbow_glass_pane"},
 		{"predicate": {"custom_model_data": 10000006}, "model": "tardis:item/products/glow_sticks/orange_glow_stick"},
 		{"predicate": {"custom_model_data": 12000006}, "model": "tardis:item/products/glow_sticks/orange_glow_stick_active"}
 	]

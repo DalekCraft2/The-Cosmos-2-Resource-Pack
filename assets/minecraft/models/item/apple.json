@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/button_restore"},
-		{"predicate": {"custom_model_data": 2200326}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200327}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200326}, "model": "slimefun:item/seasonal/christmas/caramel_apple"},
+		{"predicate": {"custom_model_data": 2200327}, "model": "slimefun:item/seasonal/christmas/chocolate_apple"}
 	]
 }

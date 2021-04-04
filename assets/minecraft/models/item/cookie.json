@@ -7,7 +7,7 @@
 		{"predicate": {"custom_model_data": 2200014}, "model": "slimefun:item/food/fortune_cookie"},
 		{"predicate": {"custom_model_data": 2200015}, "model": "slimefun:item/food/diet_cookie"},
 		{"predicate": {"custom_model_data": 2200025}, "model": "slimefun:item/food/kelp_cookie"},
-		{"predicate": {"custom_model_data": 2200320}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200320}, "model": "slimefun:item/seasonal/christmas/christmas_cookie"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/food/jammy_dodger"},
 		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/food/custard_cream"}
 	]

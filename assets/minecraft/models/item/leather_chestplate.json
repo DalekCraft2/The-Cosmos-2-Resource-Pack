@@ -6,18 +6,18 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/hazmat_chestplate"},
-		{"predicate": {"custom_model_data": 2200038}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200045}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200062}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200074}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200120}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200121}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200122}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200123}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200124}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200125}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200126}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200127}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200208}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200038}, "model": "slimefun:item/magical_armor/ender_chestplate"},
+		{"predicate": {"custom_model_data": 2200045}, "model": "slimefun:item/magical_armor/slime_chestplate"},
+		{"predicate": {"custom_model_data": 2200062}, "model": "slimefun:item/magical_armor/glowstone_chestplate"},
+		{"predicate": {"custom_model_data": 2200074}, "model": "slimefun:item/armor/cactus_chestplate"},
+		{"predicate": {"custom_model_data": 2200120}, "model": "slimefun:item/technical_gadgets/electric_jetpack_1"},
+		{"predicate": {"custom_model_data": 2200121}, "model": "slimefun:item/technical_gadgets/electric_jetpack_2"},
+		{"predicate": {"custom_model_data": 2200122}, "model": "slimefun:item/technical_gadgets/electric_jetpack_3"},
+		{"predicate": {"custom_model_data": 2200123}, "model": "slimefun:item/technical_gadgets/electric_jetpack_4"},
+		{"predicate": {"custom_model_data": 2200124}, "model": "slimefun:item/technical_gadgets/electric_jetpack_5"},
+		{"predicate": {"custom_model_data": 2200125}, "model": "slimefun:item/technical_gadgets/electric_jetpack_6"},
+		{"predicate": {"custom_model_data": 2200126}, "model": "slimefun:item/technical_gadgets/electric_jetpack_7"},
+		{"predicate": {"custom_model_data": 2200127}, "model": "slimefun:item/technical_gadgets/parachute"},
+		{"predicate": {"custom_model_data": 2200208}, "model": "slimefun:item/armor/hazmat_chestplate"}
 	]
 }

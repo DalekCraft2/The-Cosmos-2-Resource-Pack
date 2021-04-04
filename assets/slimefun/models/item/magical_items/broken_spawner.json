@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:block/cube_all",
 	"author": "RaulH22",
 	"textures": {
-		"layer0": "slimefun:item/magical_items/broken_spawner"
+		"all": "slimefun:item/magical_items/broken_spawner"
 	}
 }

@@ -13,7 +13,7 @@
 		{"predicate": {"custom_model_data": 2200081}, "model": "slimefun:item/resources/ingots/bronze_ingot"},
 		{"predicate": {"custom_model_data": 2200105}, "model": "slimefun:item/resources/ingots/copper_ingot"},
 		{"predicate": {"custom_model_data": 2200217}, "model": "slimefun:item/resources/ingots/redstone_alloy_ingot"},
-		{"predicate": {"custom_model_data": 2200325}, "model": "slimefun:item/none"},
+		{"predicate": {"custom_model_data": 2200325}, "model": "slimefun:item/seasonal/christmas/caramel"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/biome_reader"}
 	]
 }

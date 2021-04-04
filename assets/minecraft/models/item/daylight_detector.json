@@ -2,10 +2,10 @@
 	"parent": "minecraft:block/daylight_detector",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/solar_panel"},
-		{"predicate": {"custom_model_data": 2200157}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200346}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200347}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200348}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200349}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200157}, "model": "slimefun:item/technical_components/solar_panel"},
+		{"predicate": {"custom_model_data": 2200346}, "model": "slimefun:item/energy/solar_generator"},
+		{"predicate": {"custom_model_data": 2200347}, "model": "slimefun:item/energy/advanced_solar_generator"},
+		{"predicate": {"custom_model_data": 2200348}, "model": "slimefun:item/energy/carbonado_solar_generator"},
+		{"predicate": {"custom_model_data": 2200349}, "model": "slimefun:item/energy/energized_solar_generator"}
 	]
 }

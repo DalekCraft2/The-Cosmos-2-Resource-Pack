@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:block/orange_glazed_terracotta",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/legacy_bigger"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/legacy_bigger"},
+		{"predicate": {"custom_model_data": 2200448}, "model": "slimefun:item/seasonal/halloween/halloween_rainbow_glazed_terracotta"}
 	]
 }

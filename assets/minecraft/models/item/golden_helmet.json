@@ -6,8 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_helmet"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/rogue_helmet"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/explorer_helmet"},
-		{"predicate": {"custom_model_data": 2200202}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200218}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200202}, "model": "slimefun:item/armor/gilded_iron_helmet"},
+		{"predicate": {"custom_model_data": 2200218}, "model": "slimefun:item/armor/gold_12k_helmet"}
 	]
 }

@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:block/tnt",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/jettison"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/jettison"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blast_resistance_core"}
 	]
 }

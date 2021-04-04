@@ -3,6 +3,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/chemistry"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tank_refiller"},
-		{"predicate": {"custom_model_data": 2200056}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200056}, "model": "slimefun:item/basic_machines/makeshift_smeltery"}
 	]
 }

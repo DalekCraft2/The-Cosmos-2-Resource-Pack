@@ -1,0 +1,34 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/quartz"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "qualityarmory:hats/tophat"},
+		{"predicate": {"custom_model_data": 2}, "model": "qualityarmory:hats/witchhat"},
+		{"predicate": {"custom_model_data": 3}, "model": "qualityarmory:hats/pandaears"},
+		{"predicate": {"custom_model_data": 4}, "model": "qualityarmory:hats/farmhat"},
+		{"predicate": {"custom_model_data": 5}, "model": "qualityarmory:hats/crown"},
+		{"predicate": {"custom_model_data": 6}, "model": "qualityarmory:hats/squid"},
+		{"predicate": {"custom_model_data": 7}, "model": "qualityarmory:hats/headcrab"},
+		{"predicate": {"custom_model_data": 8}, "model": "qualityarmory:hats/blackcap"},
+		{"predicate": {"custom_model_data": 9}, "model": "qualityarmory:hats/bluecap"},
+		{"predicate": {"custom_model_data": 10}, "model": "qualityarmory:hats/redcap"},
+		{"predicate": {"custom_model_data": 11}, "model": "qualityarmory:hats/sgthat"},
+		{"predicate": {"custom_model_data": 12}, "model": "qualityarmory:hats/yellowcap"},
+		{"predicate": {"custom_model_data": 13}, "model": "qualityarmory:hats/nursecap"},
+		{"predicate": {"custom_model_data": 14}, "model": "qualityarmory:hats/pinktophat"},
+		{"predicate": {"custom_model_data": 15}, "model": "qualityarmory:hats/whitetophat"},
+		{"predicate": {"custom_model_data": 16}, "model": "qualityarmory:hats/whitecap"},
+		{"predicate": {"custom_model_data": 17}, "model": "qualityarmory:hats/headphones"},
+		{"predicate": {"custom_model_data": 18}, "model": "qualityarmory:hats/purpleheadphones"},
+		{"predicate": {"custom_model_data": 19}, "model": "qualityarmory:hats/firemanhat"},
+		{"predicate": {"custom_model_data": 20}, "model": "qualityarmory:hats/policehat"},
+		{"predicate": {"custom_model_data": 21}, "model": "qualityarmory:hats/steampunk"},
+		{"predicate": {"custom_model_data": 22}, "model": "qualityarmory:hats/pimphat"},
+		{"predicate": {"custom_model_data": 23}, "model": "qualityarmory:hats/astronauthelmet"},
+		{"predicate": {"custom_model_data": 24}, "model": "qualityarmory:hats/wolfhead"},
+		{"predicate": {"custom_model_data": 25}, "model": "qualityarmory:hats/chicken"},
+		{"predicate": {"custom_model_data": 26}, "model": "qualityarmory:hats/pig"}
+	]
+}

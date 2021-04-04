@@ -4,9 +4,10 @@
 		"layer0": "minecraft:item/iron_helmet"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200065}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200069}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200158}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200233}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_helmet"},
+		{"predicate": {"custom_model_data": 2200065}, "model": "slimefun:item/armor/damascus_steel_helmet"},
+		{"predicate": {"custom_model_data": 2200069}, "model": "slimefun:item/armor/reinforced_alloy_helmet"},
+		{"predicate": {"custom_model_data": 2200158}, "model": "slimefun:item/technical_gadgets/solar_helmet"},
+		{"predicate": {"custom_model_data": 2200233}, "model": "slimefun:item/magical_armor/slime_steel_helmet"}
 	]
 }

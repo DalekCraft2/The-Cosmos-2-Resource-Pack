@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/glass_pane",
 	"author": "RaulH22",
 	"textures": {
-		"layer0": "slimefun:item/magical_gadgets/rainbow_glass_pane"
+		"layer0": "slimefun:item/magical_gadgets/rainbow_glass"
 	}
 }

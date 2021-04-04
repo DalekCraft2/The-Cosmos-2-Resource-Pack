@@ -4,6 +4,6 @@
 		"layer0": "minecraft:block/redstone_torch"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200392}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200392}, "model": "slimefun:item/gps/gps_marker"}
 	]
 }

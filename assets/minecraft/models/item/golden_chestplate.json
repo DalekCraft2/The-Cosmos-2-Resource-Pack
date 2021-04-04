@@ -6,8 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_chestplate"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/rogue_chestplate"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/explorer_chestplate"},
-		{"predicate": {"custom_model_data": 2200203}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200219}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200203}, "model": "slimefun:item/armor/gilded_iron_chestplate"},
+		{"predicate": {"custom_model_data": 2200219}, "model": "slimefun:item/armor/gold_12k_chestplate"}
 	]
 }

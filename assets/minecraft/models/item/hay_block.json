@@ -2,7 +2,7 @@
 	"parent": "minecraft:block/hay_block",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/stable"},
-		{"predicate": {"custom_model_data": 2200483}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200484}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200483}, "model": "slimefun:item/energy/auto_breeder"},
+		{"predicate": {"custom_model_data": 2200484}, "model": "slimefun:item/energy/animal_growth_accelerator"}
 	]
 }

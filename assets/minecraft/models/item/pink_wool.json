@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:block/pink_wool",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/reconfigure"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/reconfigure"},
+		{"predicate": {"custom_model_data": 2200437}, "model": "slimefun:item/seasonal/valentine/valentine_rainbow_wool"}
 	]
 }

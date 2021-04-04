@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"author": "RaulH22",
+	"textures": {
+		"layer0": "slimefun:item/talisman_2/water_breather"
+	}
+}

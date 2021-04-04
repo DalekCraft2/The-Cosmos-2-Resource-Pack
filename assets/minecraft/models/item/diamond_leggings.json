@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/diamond_leggings"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200281}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200281}, "model": "slimefun:item/magical_armor/soulbound_leggings"}
 	]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/pink_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2200441}, "model": "slimefun:item/seasonal/valentine/valentine_rainbow_concrete"}
+	]
+}

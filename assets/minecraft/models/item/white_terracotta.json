@@ -2,9 +2,7 @@
 	"parent": "minecraft:block/white_terracotta",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/war"},
-		{"predicate": {"custom_model_data": 2200428}, "model": "slimefun:item/magical_gadgets/rainbow_clay"},
-		{"predicate": {"custom_model_data": 2200434}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200440}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200446}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200428}, "model": "slimefun:item/magical_gadgets/rainbow_terracotta"},
+		{"predicate": {"custom_model_data": 2200434}, "model": "slimefun:item/seasonal/christmas/christmas_rainbow_terracotta"}
 	]
 }

@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/light_blue_stained_glass",
 	"overrides": [
-		{"predicate": {"custom_model_data": 2200501}, "model": "slimefun:item/none"},
-		{"predicate": {"custom_model_data": 2200502}, "model": "slimefun:item/none"}
+		{"predicate": {"custom_model_data": 2200501}, "model": "slimefun:item/energy/freezer"},
+		{"predicate": {"custom_model_data": 2200502}, "model": "slimefun:item/energy/freezer_2"}
 	]
 }
