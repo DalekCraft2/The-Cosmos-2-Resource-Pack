@@ -4,6 +4,9 @@
 		"layer0": "minecraft:block/black_stained_glass"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/crafting_arrow"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/previous_page_off"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/next_page_off"},
 		{"predicate": {"custom_model_data": 2200008}, "model": "slimefun:item/gui/previous_inactive"},
 		{"predicate": {"custom_model_data": 2200010}, "model": "slimefun:item/gui/next_inactive"}
 	]

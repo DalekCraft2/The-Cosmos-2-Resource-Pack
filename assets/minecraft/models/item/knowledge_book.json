@@ -4,6 +4,8 @@
 		"layer0": "minecraft:item/knowledge_book"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/wiki_link_item"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/wiki_link_main"},
 		{"predicate": {"custom_model_data": 2200006}, "model": "slimefun:item/gui/wiki"}
 	]
 }

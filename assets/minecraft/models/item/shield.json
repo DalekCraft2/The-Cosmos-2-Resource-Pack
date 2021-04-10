@@ -36,13 +36,21 @@
 			"scale":[0.5, 0.5, 0.5]
 		},
 		"ground": {
-			"rotation": [ 0, 0, 0 ],
-			"translation": [ 4, 4, 2],
-			"scale":[ 0.25, 0.25, 0.25]
+			"rotation": [0, 0, 0],
+			"translation": [4, 4, 2],
+			"scale":[0.25, 0.25, 0.25]
 		}
 	},
 	"overrides": [
 		{"predicate": {"blocking": 1}, "model": "minecraft:item/shield_blocking"},
+		{"predicate": {"custom_model_data": 1}, "model": "cosmos:item/trash_can_lid"},
+		{"predicate": {"custom_model_data": 1, "blocking": 1}, "model": "cosmos:item/trash_can_lid_held"},
+		{"predicate": {"custom_model_data": 2}, "model": "cosmos:item/hellboy_arm"},
+		{"predicate": {"custom_model_data": 2, "blocking": 1}, "model": "cosmos:item/hellboy_arm_held"},
+		{"predicate": {"custom_model_data": 3}, "model": "cosmos:item/captain_shield"},
+		{"predicate": {"custom_model_data": 3, "blocking": 1}, "model": "cosmos:item/captain_shield_held"},
+		{"predicate": {"custom_model_data": 4}, "model": "cosmos:item/iron_shield"},
+		{"predicate": {"custom_model_data": 4, "blocking": 1}, "model": "cosmos:item/iron_shield_held"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/advanced_projectile_resistance"}
 	]
 }

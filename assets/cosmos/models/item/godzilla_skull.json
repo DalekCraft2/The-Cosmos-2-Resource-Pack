@@ -196,7 +196,7 @@
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"translation": [0, 0, -15.25],
+			"translation": [0, 0, -15],
 			"scale": [4, 4, 4]
 		}
 	}

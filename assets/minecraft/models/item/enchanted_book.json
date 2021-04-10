@@ -4,6 +4,8 @@
 		"layer0": "minecraft:item/enchanted_book"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/space_guide"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/space_cheat"},
 		{"predicate": {"custom_model_data": 2200001}, "model": "slimefun:item/gui/slimefun_guide"},
 		{"predicate": {"custom_model_data": 2200003}, "model": "slimefun:item/gui/back"},
 		{"predicate": {"custom_model_data": 2200313}, "model": "slimefun:item/magical_gadgets/knowledge_tome"}

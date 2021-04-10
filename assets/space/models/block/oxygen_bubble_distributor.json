@@ -1,6 +1,5 @@
 {
 	"credit": "Made by OLLIEZ4",
-	"texture_size": [32, 32],
 	"textures": {
 		"0": "space:block/vent_output",
 		"1": "space:block/stone",

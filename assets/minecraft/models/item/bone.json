@@ -35,6 +35,9 @@
 		{"predicate": {"custom_model_data": 17}, "model": "cosmos:item/titave_arm_off"},
 		{"predicate": {"custom_model_data": 18}, "model": "cosmos:item/titave_head_orange"},
 		{"predicate": {"custom_model_data": 19}, "model": "cosmos:item/titave_arm_orange"},
+		{"predicate": {"custom_model_data": 20}, "model": "cosmos:item/kong_head"},
+		{"predicate": {"custom_model_data": 21}, "model": "cosmos:item/kong_arm"},
+		{"predicate": {"custom_model_data": 22}, "model": "cosmos:item/kong_skull"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/wand"}
 	]
 }
