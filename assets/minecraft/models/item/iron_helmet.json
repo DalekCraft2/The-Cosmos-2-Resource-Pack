@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_helmet"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/solar_helmet"},
 		{"predicate": {"custom_model_data": 2200065}, "model": "slimefun:item/armor/damascus_steel_helmet"},
 		{"predicate": {"custom_model_data": 2200069}, "model": "slimefun:item/armor/reinforced_alloy_helmet"},
 		{"predicate": {"custom_model_data": 2200158}, "model": "slimefun:item/technical_gadgets/solar_helmet"},
