@@ -1,6 +1,5 @@
 {
 	"parent": "slimefun:item/weapons/explosive_bow/explosive_bow",
-	"author": "RaulH22",
 	"textures": {
 		"layer0": "slimefun:item/weapons/explosive_bow/explosive_bow_pulling_2"
 	}

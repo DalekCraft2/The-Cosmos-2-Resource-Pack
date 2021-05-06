@@ -1,6 +1,5 @@
 {
 	"parent": "minecraft:item/generated",
-	"author": "RaulH22",
 	"textures": {
 		"layer0": "slimefun:item/food/magic_sugar"
 	}

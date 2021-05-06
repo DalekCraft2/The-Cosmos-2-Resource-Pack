@@ -1,6 +1,5 @@
 {
 	"parent": "minecraft:item/handheld",
-	"author": "RaulH22",
 	"textures": {
 		"layer0": "slimefun:item/tools/explosive_shovel"
 	}

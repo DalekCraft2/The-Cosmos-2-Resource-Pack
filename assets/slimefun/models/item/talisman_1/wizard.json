@@ -1,7 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
-	"author": "RaulH22",
 	"textures": {
-	"layer0": "slimefun:item/talisman_1/wizard"
+		"layer0": "slimefun:item/talisman_1/wizard"
 	}
 }

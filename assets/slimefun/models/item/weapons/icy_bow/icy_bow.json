@@ -1,6 +1,5 @@
 {
 	"parent": "minecraft:item/bow",
-	"author": "RaulH22",
 	"textures": {
 		"layer0": "slimefun:item/weapons/icy_bow/icy_bow"
 	}

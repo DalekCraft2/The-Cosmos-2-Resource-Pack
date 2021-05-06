@@ -1,6 +1,5 @@
 {
 	"parent": "minecraft:block/cube_all",
-	"author": "RaulH22",
 	"textures": {
 		"all": "slimefun:item/seasonal/valentine/valentine_rainbow_glazed_terracotta"
 	}

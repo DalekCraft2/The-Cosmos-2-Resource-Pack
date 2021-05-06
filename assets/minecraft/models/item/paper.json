@@ -78,6 +78,7 @@
 		{"predicate": {"custom_model_data": 72}, "model": "tardis:item/handles/handles_variable_recharger"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/requirements"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/requirements_nobg"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/jetpack_thrust_medium"},
 		{"predicate": {"custom_model_data": 2200049}, "model": "slimefun:item/magical_items/magical_book_cover"},
 		{"predicate": {"custom_model_data": 2200115}, "model": "slimefun:item/miscellaneous/steel_plate"},
 		{"predicate": {"custom_model_data": 2200206}, "model": "slimefun:item/technical_components/reinforced_cloth"},

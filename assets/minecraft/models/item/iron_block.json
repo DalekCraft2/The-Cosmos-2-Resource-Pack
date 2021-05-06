@@ -7,6 +7,8 @@
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:block/sword_editor"},
 		{"predicate": {"custom_model_data": 1234570}, "model": "space:block/aluminium_alloy_block"},
 		{"predicate": {"custom_model_data": 1234571}, "model": "space:block/palladium_block"},
+		{"predicate": {"custom_model_data": 1234572}, "model": "space:block/reinforced_aluminium_alloy_block"},
+		{"predicate": {"custom_model_data": 1234573}, "model": "space:block/reinforced_palladium_block"},
 		{"predicate": {"custom_model_data": 2200382}, "model": "slimefun:item/energy/auto_anvil"},
 		{"predicate": {"custom_model_data": 2200383}, "model": "slimefun:item/energy/auto_anvil_2"},
 		{"predicate": {"custom_model_data": 2200462}, "model": "slimefun:item/gps/teleporter_matrix"},

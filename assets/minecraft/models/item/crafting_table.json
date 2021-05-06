@@ -1,7 +1,6 @@
 {
 	"parent": "minecraft:block/crafting_table",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/recipes"},
 		{"predicate": {"custom_model_data": 2200017}, "model": "slimefun:item/basic_machines/enhanced_crafting_table"},
 		{"predicate": {"custom_model_data": 2200132}, "model": "slimefun:item/basic_machines/magic_workbench"},
 		{"predicate": {"custom_model_data": 2200350}, "model": "slimefun:item/energy/charging_bench"},

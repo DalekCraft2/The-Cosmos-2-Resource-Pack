@@ -1,6 +1,5 @@
 {
 	"parent": "slimefun:item/weapons/icy_bow/icy_bow",
-	"author": "RaulH22",
 	"textures": {
 		"layer0": "slimefun:item/weapons/icy_bow/icy_bow_pulling_1"
 	}
