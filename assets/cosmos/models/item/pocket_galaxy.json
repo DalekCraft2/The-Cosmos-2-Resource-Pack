@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "cosmos:item/beta_tester",
-		"particle": "cosmos:item/beta_tester"
+		"0": "cosmos:item/pocket_galaxy",
+		"particle": "cosmos:item/pocket_galaxy"
 	},
 	"elements": [
 		{
