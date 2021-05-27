@@ -5,9 +5,9 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/cyberman"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/cyberman_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/cyberman_head"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/cyberman_disguise"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/cyberman/cyberman_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/cyberman/cyberman_head"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/cyberman/cyberman_disguise"},
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/aluminium_alloy_ingot"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/palladium_ingot"},
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:block/rocket"},
